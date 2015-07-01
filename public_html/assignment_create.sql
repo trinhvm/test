@@ -6,7 +6,7 @@
 
 -- tables
 -- Table: NhanVien
-CREATE TABLE NhanVien (
+CREATE TABLE NhanVien111 (
     Manv int  NOT NULL,
     Tennv text  NOT NULL,
     Ngaysinh date  NOT NULL,
